@@ -1,0 +1,2 @@
+# mustache-cn
+static site
